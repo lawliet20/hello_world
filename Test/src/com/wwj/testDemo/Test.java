@@ -63,6 +63,7 @@ public class Test {
 		// TODO Auto-generated method stub
 //		 enCode();
         System.out.println("hello world");
+        System.out.println("hello sherry");
         //decode();
 
 	}
