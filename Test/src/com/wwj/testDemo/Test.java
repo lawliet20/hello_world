@@ -61,10 +61,9 @@ public class Test {
 
 	public static void main(String[] args) throws InvalidKeyException, NoSuchAlgorithmException, SignatureException {
 		// TODO Auto-generated method stub
-//		 enCode();
-        System.out.println("hello world");
-        System.out.println("hello sherry");
-        //decode();
+		// enCode();
+		 
+		//decode();
 
 	}
 
