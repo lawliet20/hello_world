@@ -6,6 +6,6 @@ package com.wwj;
 public class Test6 {
 
     public void test1(){
-        System.out.println("我是主干test6");
+        System.out.println("我是分支1");
     }
 }
